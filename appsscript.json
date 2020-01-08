@@ -1,0 +1,12 @@
+{
+  "dataStudio": {
+    "name": "Topvisor connector",
+    "logoUrl": "https://raw.githubusercontent.com/npm/logos/master/%22npm%22%20lockup/npm-logo-simplifed-with-white-space.png",
+    "company": "SeoDogs.ru",
+    "companyUrl": "https://SeoDogs.ru",
+    "addonUrl": "https://SeoDogs.ru",
+    "supportUrl": "https://github.com/google/datastudio/issues",
+    "description": "Connector for TopVisor.ru",
+    "sources": ["topvisor.ru"]
+  }
+}
