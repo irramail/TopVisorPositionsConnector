@@ -22,7 +22,7 @@ Today you can find inside the connector:
 "Google/Норильск",
 ```
 
-You can add new item 
+You can add new item, reconnect it and use:
 ```
           ,
           { //regionsIndexes=3340 uri topvisor
