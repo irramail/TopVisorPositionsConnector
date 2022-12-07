@@ -1,5 +1,5 @@
 # TopVisorPositionsConnector
-Connector for TopVisor, only positions by google/ya and msk/krsk 
+Connector for TopVisor
 
 In datastudio report daterange element and Pivot table
 
